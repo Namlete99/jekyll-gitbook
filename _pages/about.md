@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-# Namlete
+**Namlete**
 
 một thằng lông bông sinh năm 2007. 
 
